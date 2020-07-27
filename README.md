@@ -1,7 +1,7 @@
 # TeachYourselfCS-FR
+:warning: Work in progress :warning:  
 
-Traduction française du guide [TeachYourselfCS](https://teachyourselfcs.com/).
-
+Traduction française du guide [TeachYourselfCS](https://teachyourselfcs.com/).  
 A French translation of [TeachYourselfCS](https://teachyourselfcs.com/).
 
 ## Navigation 
