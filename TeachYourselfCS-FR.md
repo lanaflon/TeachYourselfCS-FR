@@ -112,4 +112,4 @@ Une fois que vous vous sentirez à l'aise avec le contenu de ce cours, nous vous
 > Le matériel est la plateforme
 >
 > — Mike Acton, Directeur moteur chez Insomniac Games
-> ([Regarder sa conférence CppCon](https://www.youtube.com/watch?v=rX0ItVEVjHc =100x20))
+> ([Regarder sa conférence CppCon](https://www.youtube.com/watch?v=rX0ItVEVjHc))
