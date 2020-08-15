@@ -84,12 +84,32 @@ Enfin, point important  : ce guide n'est PAS conçu pour ceux qui sont entièrem
 Le fait que nous ayons inclus le sujet Programmation est simplement un rappel qu'il y a peut être plus à apprendre. 
 Pour ceux qui n'ont jamais codé auparavant, mais qui aimeraient le faire, vous préférerez peut-être un guide comme [celui-ci](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started).
 
+[![Livre SICP](https://teachyourselfcs.com/sicp.jpg)]
+
+
 ### Architecture Informatique 
 
 L'architecture informatique, parfois appelée "système informatique" est un premier aperçu important de ce qui se passe sous la couche logicielle. Selon notre expérience, c'est le domaine le plus souvent négligé par les autodidactes. 
 
-Notre livre d'introduction favori est _Computer Systems: A programmer's perspective (CS:APP)_. 
-Un cours typique d'introduction à l'architecture informatique couvrirait les chapitres de 1 à 6.
+Notre livre d'introduction favori est [_Computer Systems: A programmer's perspective (CS:APP)_](http://csapp.cs.cmu.edu/3e/home.html). 
+Un cours typique d'introduction à l'architecture informatique [couvrirait](http://csapp.cs.cmu.edu/3e/courses.html) les chapitres de 1 à 6.
 
 CS:APP est apprécié pour son approche pratique pensée pour les programmeurs. Ce livre est un bon point de départ pour ceux qui souhaitent comprendre les systèmes informatiques dans l'objectif d'écrire des logiciels plus fiables et efficients. 
-Pour ceux qui préfèrent une introduction plus accessible entre le matériel et les logiciels nous suggérons le cours _The elements of computing systems_ aussi connu sous le nom de [Nand2Tetris](https://www.nand2tetris.org). Il s'agit d'un livre qui tente de vous donner une bonne compréhension de la façon dont tout fonctionne dans un ordinateur. Chaque chapitre implique la création d'une petite partie du système informatique, de l'écriture des portes logiques élémentaires en HDL en passant par le processeur, l'assembleur jusqu'à une application de la taille d'un jeu Tetris. 
+Pour ceux qui préfèrent une introduction plus accessible entre le matériel et les logiciels nous suggérons le cours _The elements of computing systems_ aussi connu sous le nom de [Nand2Tetris](https://www.nand2tetris.org). Il s'agit d'un livre qui tente de vous donner une bonne compréhension de la façon dont tout fonctionne dans un ordinateur. Chaque chapitre implique la création d'une petite partie du système informatique, de l'écriture des portes logiques élémentaires en HDL en passant par le processeur, l'assembleur jusqu'à une application de la taille d'un jeu Tetris.  
+
+Nous vous recommandons de lire les six premiers chapitres du livre et de réaliser les projets associés. Cela vous permettra de mieux appréhender la relation entre l'architecture machine et le logiciel. 
+
+La première moitié du livre (et tous ses projets) sont disponibles gratuitement sur [Nand2Tetris](https://www.nand2tetris.org). Il est aussi disponible sous la forme de deux cours Coursera : 
+- [Nand2Tetris I (Matériel, chapitre 1-6)](https://www.coursera.org/learn/build-a-computer)
+- [Nand2Tetris II (Logiciel, chapitre 7-12)](https://www.coursera.org/learn/nand2tetris2)
+
+Ce que Nand2Tetris gagne en simplicité, il le perd en profondeur, en particulier sur le [pipelining](https://fr.wikipedia.org/wiki/Pipeline_(architecture_des_processeurs)) et la [hierarchie de mémoire](https://fr.wikipedia.org/wiki/Hiérarchie_de_mémoire). Tous deux sont absents des textes.
+
+Une fois que vous vous sentirez à l'aise avec le contenu de ce cours, nous vous suggérons soit de revenir à CS:APP, soit de vous penchez sur [_Computer Organization and Design_](https://www.amazon.fr/Computer-Organization-Design-MIPS-Interface/dp/0124077269) de Patterson et Hennessy, un excellent texte désormais classique. Toutes les parties de ce livre ne sont pas essentielles; nous vous conseillons de suivre le cours de l'université de Berkeley [_CS61C_](http://inst.eecs.berkeley.edu/~cs61c/sp15/) _Great ideas in computer architecture_ pour des lectures spécifiques. Les notes de cours et les archives des anciens cours sont disponibles sur l'[Internet Archive](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_).
+
+<img src="https://teachyourselfcs.com/csapp.jpg" alt="Livre SICP" width="207"/>
+
+> Le matériel est la plateforme
+>
+> — Mike Acton, Directeur moteur chez Insomniac Games
+> ([Regarder sa conférence CppCon](https://www.youtube.com/watch?v=rX0ItVEVjHc =100x20))
