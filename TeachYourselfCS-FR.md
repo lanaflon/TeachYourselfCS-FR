@@ -23,7 +23,7 @@ Visez entre 100 et 200 heures d'étude pour chaque sujet. Et revisitez vos cours
 | Sujet                                           | Pourquoi étudier ?                                                                                                                                | Livre                                              | Vidéos                      |
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------|
 | **[Programmation](#programmation)**                   | Ne soyez pas celui qui n'a jamais vraiment compris quelque chose comme la récursion | _Structure and Interpretation of Computer Programs_     | Brian Harvey Berkeley CS 61A    |
-| **[Architecture matérielle](#architecture-materielle)**  | Si vous n'avez pas une vision précise du fonctionnement d'un ordinateur, toutes vos abstractions de haut niveau seront fragiles      | _Computer Systems: A Programmer's Perspective_ | Berkeley CS 61C |
+| **[Architecture informatique](#architecture-informatique)**  | Si vous n'avez pas une vision précise du fonctionnement d'un ordinateur, toutes vos abstractions de haut niveau seront fragiles      | _Computer Systems: A Programmer's Perspective_ | Berkeley CS 61C |
 | **[Algorithmes et structures de données](#algorithme-et-structures-de-donnees)**| Si vous ne comprennez pas les structures de données comme les piles, les files ou les arbres il vous sera difficile de résoudre des problèmes complexes | _The Algorithm Design Manual_ | Conférences de Steven Skiena          |
 | **[Mathématiques pour l'informtique](#mathematiques-pour-informatique)** | L'informatique, c'est des mathématiques. Comprendre les mathématiques vous donnera un avantage concurrentiel | _Mathematics for Computer Science_ | Tom Leighton MIT 6.042J         |
 | **[Systèmes d'exploitation](#systemes-exploitation)**   | Le gros du code que vous écrivez est exécuté par un système d'exploitation, vous vous devez donc de savoir comment ceux-ci fonctionnent. | _Operating Systems: Three Easy Pieces_ | Berkeley CS 162                   |
@@ -84,4 +84,12 @@ Enfin, point important  : ce guide n'est PAS conçu pour ceux qui sont entièrem
 Le fait que nous ayons inclus le sujet Programmation est simplement un rappel qu'il y a peut être plus à apprendre. 
 Pour ceux qui n'ont jamais codé auparavant, mais qui aimeraient le faire, vous préférerez peut-être un guide comme [celui-ci](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started).
 
-### Architecture Matérielle 
+### Architecture Informatique 
+
+L'architecture informatique, parfois appelée "système informatique" est un premier aperçu important de ce qui se passe sous la couche logicielle. Selon notre expérience, c'est le domaine le plus souvent négligé par les autodidactes. 
+
+Notre livre d'introduction favori est _Computer Systems: A programmer's perspective (CS:APP)_. 
+Un cours typique d'introduction à l'architecture informatique couvrirait les chapitres de 1 à 6.
+
+CS:APP est apprécié pour son approche pratique pensée pour les programmeurs. Ce livre est un bon point de départ pour ceux qui souhaitent comprendre les systèmes informatiques dans l'objectif d'écrire des logiciels plus fiables et efficients. 
+Pour ceux qui préfèrent une introduction plus accessible entre le matériel et les logiciels nous suggérons le cours _The elements of computing systems_ aussi connu sous le nom de [Nand2Tetris](https://www.nand2tetris.org). Il s'agit d'un livre qui tente de vous donner une bonne compréhension de la façon dont tout fonctionne dans un ordinateur. Chaque chapitre implique la création d'une petite partie du système informatique, de l'écriture des portes logiques élémentaires en HDL en passant par le processeur, l'assembleur jusqu'à une application de la taille d'un jeu Tetris. 
