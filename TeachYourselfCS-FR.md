@@ -24,8 +24,8 @@ Visez entre 100 et 200 heures d'étude pour chaque sujet. Et revisitez vos cours
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------|
 | **[Programmation](#programmation)**                   | Ne soyez pas celui qui n'a jamais vraiment compris quelque chose comme la récursion | _Structure and Interpretation of Computer Programs_     | Brian Harvey Berkeley CS 61A    |
 | **[Architecture informatique](#architecture-informatique)**  | Si vous n'avez pas une vision précise du fonctionnement d'un ordinateur, toutes vos abstractions de haut niveau seront fragiles      | _Computer Systems: A Programmer's Perspective_ | Berkeley CS 61C |
-| **[Algorithmes et structures de données](#algorithmes-et-structures-de-donnees)**| Si vous ne comprennez pas les structures de données comme les piles, les files ou les arbres il vous sera difficile de résoudre des problèmes complexes | _The Algorithm Design Manual_ | Conférences de Steven Skiena          |
-| **[Mathématiques pour l'informtique](#mathematiques-pour-informatique)** | L'informatique, c'est des mathématiques. Comprendre les mathématiques vous donnera un avantage concurrentiel | _Mathematics for Computer Science_ | Tom Leighton MIT 6.042J         |
+| **[Algorithmes et structures de données](#algorithmes-et-structures-de-données)**| Si vous ne comprennez pas les structures de données comme les piles, les files ou les arbres il vous sera difficile de résoudre des problèmes complexes | _The Algorithm Design Manual_ | Conférences de Steven Skiena          |
+| **[Mathématiques pour l'informatique](#mathématiques-pour-l-informatique)** | L'informatique, c'est des mathématiques. Comprendre les mathématiques vous donnera un avantage concurrentiel | _Mathematics for Computer Science_ | Tom Leighton MIT 6.042J         |
 | **[Systèmes d'exploitation](#systemes-exploitation)**   | Le gros du code que vous écrivez est exécuté par un système d'exploitation, vous vous devez donc de savoir comment ceux-ci fonctionnent. | _Operating Systems: Three Easy Pieces_ | Berkeley CS 162                   |
 | **[Réseaux informatiques](#reseaux-informatiques)**           | Internet est omniprésent, il est important de comprendre comment il fonctionne pour en exploiter tout le potentiel. | _Computer Networking: A Top-Down Approach_ | Stanford CS 144 |
 | **[Bases de données](#bases-de-donnees)**                 | Les bases de données sont au cœur de la plupart des programmes mais rares sont ceux qui comprennent comment fonctionnent réellement ces systèmes	 | _Readings in Database Systems_                          | Joe Hellerstein Berkeley CS 186 |
@@ -110,7 +110,7 @@ Une fois que vous vous sentirez à l'aise avec le contenu de ce cours, nous vous
 <img src="https://teachyourselfcs.com/csapp.jpg" alt="Livre SICP" width="207"/>
 
 > Le matériel est la plateforme
-
+> 
 > — Mike Acton, Directeur moteur chez Insomniac Games
 > ([Regarder sa conférence CppCon](https://www.youtube.com/watch?v=rX0ItVEVjHc))
 
@@ -136,3 +136,20 @@ Enfin nous vous recommandeons vivement [How To Solve It](https://www.amazon.fr/H
 
 ![Livre Skiena](https://teachyourselfcs.com/skiena.jpg) ![Livre HTSI](https://teachyourselfcs.com/polya.jpg)
 
+### Mathématiques pour l'informatique
+
+Dans un sens, l'informatique est une branche des mathématiques appliquées qui a pris de l'ampleur. Bien que de nombreux développeurs essaient et réussissent plus ou moins à ignorer cela, nous vous encourageons fortement à l'accepter. Si vous y parvenez, vous bénéficierez d'un avantage énorme sur les autres.
+
+Le domaine mathématique le plus pertinent pour l'informatique est appelé _mathématiques discrètes_ où "discret" est l'opposé de "continu". L'objectif est de développer une compréhension pratique de la logique, de l'analyse combinatoire, des probabilités, de la théorie des ensembles, de la théorie des graphes et un peu de la théories des nombres pour la cryptographie.
+
+L'algrèbre linéaire est un autre domain d'étude important, compte tenu de son importance dans l'inforgraphie et le machine learning. 
+
+Notre suggestion pour débuter les mathématiques discrètes est le [jeu de notes de cours de László Lovász](http://www.cs.elte.hu/~lovasz/dmbook.ps). Le professeur Lovász a réalisé un bon travail pour rendre le contenu accessible et intuitif, ce qui en fait un meilleur point de départ que la plupart des textes plus formels. 
+
+Pour un traitement plus avancé, nous vous conseillons [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf), le livre de notes pour le cours MIT du même nom. Nous recommandons aussi les conférences de ce cours, disponibles gratuitement.
+
+Quant à l'algèbre linéaire, nous conseillons de commencer avec la série youtube [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) suivie du travail de Gilber Strang, son livre [Introduction to Linear Algebra](https://www.amazon.fr/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775) et [ses conférences](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+
+> Si les gens ne croient pas que les mathématiques sont simples, c'est seulement parce qu'ils ne réalisent pas à quel point la vie est compliquée.
+> 
+> — John von Neumann
