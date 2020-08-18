@@ -24,7 +24,7 @@ Visez entre 100 et 200 heures d'étude pour chaque sujet. Et revisitez vos cours
 |---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------|
 | **[Programmation](#programmation)**                   | Ne soyez pas celui qui n'a jamais vraiment compris quelque chose comme la récursion | _Structure and Interpretation of Computer Programs_     | Brian Harvey Berkeley CS 61A    |
 | **[Architecture informatique](#architecture-informatique)**  | Si vous n'avez pas une vision précise du fonctionnement d'un ordinateur, toutes vos abstractions de haut niveau seront fragiles      | _Computer Systems: A Programmer's Perspective_ | Berkeley CS 61C |
-| **[Algorithmes et structures de données](#algorithme-et-structures-de-donnees)**| Si vous ne comprennez pas les structures de données comme les piles, les files ou les arbres il vous sera difficile de résoudre des problèmes complexes | _The Algorithm Design Manual_ | Conférences de Steven Skiena          |
+| **[Algorithmes et structures de données](#algorithmes-et-structures-de-donnees)**| Si vous ne comprennez pas les structures de données comme les piles, les files ou les arbres il vous sera difficile de résoudre des problèmes complexes | _The Algorithm Design Manual_ | Conférences de Steven Skiena          |
 | **[Mathématiques pour l'informtique](#mathematiques-pour-informatique)** | L'informatique, c'est des mathématiques. Comprendre les mathématiques vous donnera un avantage concurrentiel | _Mathematics for Computer Science_ | Tom Leighton MIT 6.042J         |
 | **[Systèmes d'exploitation](#systemes-exploitation)**   | Le gros du code que vous écrivez est exécuté par un système d'exploitation, vous vous devez donc de savoir comment ceux-ci fonctionnent. | _Operating Systems: Three Easy Pieces_ | Berkeley CS 162                   |
 | **[Réseaux informatiques](#reseaux-informatiques)**           | Internet est omniprésent, il est important de comprendre comment il fonctionne pour en exploiter tout le potentiel. | _Computer Networking: A Top-Down Approach_ | Stanford CS 144 |
@@ -110,6 +110,29 @@ Une fois que vous vous sentirez à l'aise avec le contenu de ce cours, nous vous
 <img src="https://teachyourselfcs.com/csapp.jpg" alt="Livre SICP" width="207"/>
 
 > Le matériel est la plateforme
->
+
 > — Mike Acton, Directeur moteur chez Insomniac Games
 > ([Regarder sa conférence CppCon](https://www.youtube.com/watch?v=rX0ItVEVjHc))
+
+
+### Algorithmes et structures de données
+
+L'un des aspect les plus valorisants d'une formation classique en informatique est l'apprentissage des algorithmes et structures de données les plus utilisés. C'est également un bon endroit pour améliorer ses capacités de résolution de problèmes, qui seront utiles dans tous les autres domaines d'étude.
+
+Il y a des centaines de livres à ce sujet, mais notre préféré est [_https://www.amazon.fr/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202_](https://www.amazon.fr/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) de Steven Skiena. Il est clair qu'il aime la résolution de problèmes algorithmiques et réussit à transmettre son enthousiasme chez ses élèves et lecteurs. Selon nous, les deux textes les plus couramment proposés (CLRS et Sedgewick) ont tendance à être chargés en matières de preuves pour un lecteur dont l'objectif principal et d'améliorer ses capacités de résolution de problèmes. 
+
+Pour ceux qui préfèrent les vidéo-conférences, [_Steven Skiena propose généreusement ses vidéos sur Youtube_](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp). On apprécie aussi celles de Tim Roughgarden disponibles sur [Coursera](https://www.coursera.org/specializations/algorithms), le choix entre Skiena et Roughgarden est simplement une question de préférence. D'ailleurs, il y a des dizaines d'alternatives pour l'étude algorithmique et les structures de données, alors si vous en trouvez une à votre goût, nous vous encourageons à continuer.
+
+Pour la pratique, on recommande de résoudre des problèmes sur des sites comme : 
+- [Leetcode](https://leetcode.com)
+- [CodeWars](https://www.codewars.com)
+- [CodingGame](https://www.codingame.com)  
+
+Il s'agit le plus souvent de problèmes intéressants et proches de cas réels accompagnés de solutions et d'échanges avec les autres joueurs. Nous vous suggérons de résoudre une centaine de problèmes aléatoires dans le cadre de vos études.
+
+> Note traducteur : Il me semble plus utile d'utiliser ces sites tout au long de votre carrière,  quelques heures par semaine.
+
+Enfin nous vous recommandeons vivement [How To Solve It](https://www.amazon.fr/How-Solve-Aspect-Mathematical-Method-dp-069116407X/dp/069116407X/ref=dp_ob_title_bk) qui est un excellent et unide guide pour la résolution de problèmmes; il est aussi applicable aux mathématiques qu'en informatique.  
+
+![Livre Skiena](https://teachyourselfcs.com/skiena.jpg) ![Livre HTSI](https://teachyourselfcs.com/polya.jpg)
+
