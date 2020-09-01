@@ -57,6 +57,7 @@ Cette offre excédentaire d'informaticiens de catégorie 2 commence à réduire 
 de catégorie 1, ou que vous êtes seulement à la recherche d'une sécurité de l'emploi, 
 l'apprentissage de l'informatique à sa source est la seule voie fiable.
 
+> Note traducteur : Les livres payants présentés dans ce document sont disponibles sur Amazon, mais vous pouvez les récupérer gratuitement sur internet avec un peu de recherche.
 
 ## Guide des sujets 
 
@@ -167,5 +168,26 @@ Une bonne façon de consolider votre compréhension des systèmes d'exploitation
 
 ![Livre OSTEP](https://teachyourselfcs.com/ostep.jpeg)
 
+### Réseaux informatiques
 
+Étant donné qu'une grande partie du génie logiciel se trouve sur des serveurs et clients web, l'un des secteurs les plus importants de l'informatique est celui des réseaux. Les autodidactes qui étudient méthodiquement ce domaine comprendront enfin termes, concepts et protocoles qui les entourent depuis des années.
 
+Notre livre préféré sur le sujet est [_Computer Networking: A Top-Down Approach_](https://www.amazon.fr/Computer-Networking-Top-Down-Approach-International/dp/0273768964). Les différents projets et exercices du livre valent la peine d'être faits, et nous apprécions particulièrement les "Wireshark labs" qu'ils ont [généreusement mis à disposition en ligne](http://www-net.cs.umass.edu/wireshark-labs/). 
+
+![Livre CNATDA](https://teachyourselfcs.com/top-down.jpg)
+
+### Bases de données
+
+Apprendre par soi-même les bases de données demande plus de travail que les autres matières. C'est un domaine d'étude relativement récent (postérieur à 1970) avec de fortes pressions commerciales pour que les nouvelles idées ne s'ébruitent pas. De plus, de nombreux auteurs de livres potentiellement excellents ont préféré rejoindre ou créer des entreprises.
+
+Compte tenu des circonstances, nous conseillons aux autodidactes d'éviter les livres et de commencer par le cours sur les bases de données de Joe Hellerstein à Berkeley : [_CS 186_](https://www.youtube.com/user/CS186Berkeley/videos) et de passer ensuite à la lecture papier.
+
+Un document particulièrement intéressant pour les débutants est [_Architecture of a Database System_](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf), qui offre une vue haut niveau sur le fonctionnement des systèmes de gestion de bases de données relationnelles (SGBDR). Ce document servira de base utile pour des études plus approfondies.
+
+Readings in Database Systems, mieux connu sous le nom de [_the databases "Red Book"_](http://www.redbook.io), est un recueil de textes compilés et édités par Peter Bailis, Joe Hellerstein et Michael Stonebraker. Pour ceux qui ont terminé le contenu de CS 186, le Red Book devrait être votre prochaine étape.
+
+Si vous tenez absolument aux livres, nous recommandons [_Database Management Systems_](https://www.amazon.fr/Database-Management-Systems-Raghu-Ramakrishnan/dp/0072465638) de Ramakrishnan et Gehrke. Pour les étudiants avancés, le classique [_Transaction Processing: Concepts and Techniques_](https://www.amazon.fr/Transaction-Processing-Techniques-Jim-Gray/dp/1558601902) de Jim Gray est intéressant. Mais nous déconseillons de l'utiliser comme première ressource. 
+
+Pour finir, la modélisation des données est un aspect négligé et souvent mal enseigné. Sur ce sujet, nous proposons le livre [_Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World_](https://www.amazon.fr/Data-Reality-Perspective-Perceiving-Information/dp/1935504215) aussi disponible via [github](https://github.com/jhulick/bookstuff/blob/master/Data%20and%20Reality.pdf)
+
+![redbook](https://teachyourselfcs.com/redbook.jpg) ![datareality](https://teachyourselfcs.com/data-reality.jpg)
