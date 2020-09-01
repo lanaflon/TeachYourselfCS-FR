@@ -156,7 +156,7 @@ Quant à l'algèbre linéaire, nous conseillons de commencer avec la série yout
 
 ### Systèmes d'exploitation
 
-[_Operating System Concepts_](https://www.amazon.fr/Operating-System-Concepts-Abraham-Silberschatz/dp/1118063333)(Le livre avec des dinosaures) et [_Modern Operating Systems_](https://www.amazon.fr/Modern-Operating-Systems-Andrew-Tanenbaum/dp/1292061421) sont tous deux des classiques dans le domaine des systèmes d'exploitation. Mais tous deux ont été critiqués pour leur manque de clarté et d'accessibilité pour les étudiants. 
+[_Operating System Concepts_](https://www.amazon.fr/Operating-System-Concepts-Abraham-Silberschatz/dp/1118063333) et [_Modern Operating Systems_](https://www.amazon.fr/Modern-Operating-Systems-Andrew-Tanenbaum/dp/1292061421) sont tous deux des classiques dans le domaine des systèmes d'exploitation. Mais tous deux ont été critiqués pour leur manque de clarté et d'accessibilité pour les étudiants. 
 
 _Operating Systems: Three Easy Pieces_ (OSTEP) est une bonne alternative, disponible gratuitement [ici](http://pages.cs.wisc.edu/~remzi/OSTEP/) ainsi que sur [github](https://github.com/mthipparthi/operating-systems-three-easy-pieces/blob/master/book.pdf). Nous apprécions particulièrement la structure et la lisiblité de ce livre et nous pensons que les différents exercices de celui ci en valent la peine. 
 
@@ -165,6 +165,7 @@ Pour Linux, nous recommandons le fantastique ouvrage de Robert Love [_Linux Kern
 
 Une bonne façon de consolider votre compréhension des systèmes d'exploitation est de lire le code d'un petit noyau et d'y ajouter des fonctionnalités. L'un des choix possible est [_xv6_](https://pdos.csail.mit.edu/6.828/2016/xv6.html), un port d'Unix V6 vers ANSI C pour microprocesseurs x86, maintenu pour un cours du MIT. OSTEP dispose d'une section dédiée à xv6 avec de bonnes idées pour de potentiels projets.
 
+![Livre OSTEP](https://teachyourselfcs.com/ostep.jpeg)
 
 
 
