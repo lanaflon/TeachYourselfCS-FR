@@ -26,14 +26,14 @@ Visez entre 100 et 200 heures d'étude pour chaque sujet. Et revisitez vos cours
 | **[Architecture informatique](#architecture-informatique)**  | Si vous n'avez pas une vision précise du fonctionnement d'un ordinateur, toutes vos abstractions de haut niveau seront fragiles      | _Computer Systems: A Programmer's Perspective_ | Berkeley CS 61C |
 | **[Algorithmes et structures de données](#algorithmes-et-structures-de-données)**| Si vous ne comprennez pas les structures de données comme les piles, les files ou les arbres il vous sera difficile de résoudre des problèmes complexes | _The Algorithm Design Manual_ | Conférences de Steven Skiena          |
 | **[Mathématiques pour l'informatique](#mathématiques-pour-linformatique)** | L'informatique, c'est des mathématiques. Comprendre les mathématiques vous donnera un avantage concurrentiel | _Mathematics for Computer Science_ | Tom Leighton MIT 6.042J         |
-| **[Systèmes d'exploitation](#systemes-exploitation)**   | Le gros du code que vous écrivez est exécuté par un système d'exploitation, vous vous devez donc de savoir comment ceux-ci fonctionnent. | _Operating Systems: Three Easy Pieces_ | Berkeley CS 162                   |
+| **[Systèmes d'exploitation](#systèmes-dexploitation)**   | Le gros du code que vous écrivez est exécuté par un système d'exploitation, vous vous devez donc de savoir comment ceux-ci fonctionnent. | _Operating Systems: Three Easy Pieces_ | Berkeley CS 162                   |
 | **[Réseaux informatiques](#reseaux-informatiques)**           | Internet est omniprésent, il est important de comprendre comment il fonctionne pour en exploiter tout le potentiel. | _Computer Networking: A Top-Down Approach_ | Stanford CS 144 |
 | **[Bases de données](#bases-de-donnees)**                 | Les bases de données sont au cœur de la plupart des programmes mais rares sont ceux qui comprennent comment fonctionnent réellement ces systèmes	 | _Readings in Database Systems_                          | Joe Hellerstein Berkeley CS 186 |
 | **[Langages et compilateurs](#langages-et-compilateurs)**       | Si vous comprenez comment les langages et les compilateurs fonctionnent réellement, vous écrirez un code de meilleure  qualité et apprendrez de nouveaux langages plus facilement.  | _Crafting Interpreters_ | Cours d'Alex Aiken sur edX |
 | **[Systèmes distribués](#systemes-distribues)** | De nos jours, la plupart des systèmes sont des systèmes distribués. | _Designing Data-Intensive Applications_ | MIT 6.824          
 
 ## C'est trop ?
-Si l'idée d'étudier 9 sujets en autodidacte sur plusieurs années vous semble trop difficile, nous vous suggérons de vous concentrer sur deux livres : _Computer Systems: A Programmer's Perspective_ et _Designing Data-Intensive Applications_.  
+Si l'idée d'étudier 9 sujets en autodidacte sur plusieurs années vous semble trop difficile, nous vous suggérons de vous concentrer sur deux livres : [_Computer Systems: A programmer's perspective (CS:APP)_](http://csapp.cs.cmu.edu/3e/home.html) et [_Designing Data-Intensive Applications_](https://www.amazon.fr/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321) 
 Ces deux livres offrent un très bon retour sur investissement, en particulier pour les ingénieurs autodidactes et les diplômés des bootcamps qui travaillent sur des applications en réseau. Ils peuvent également servir de passerelle pour les autres sujets énumérés ci-dessus.
 
 ## Pourquoi apprendre les sciences informatiques ? 
@@ -45,7 +45,7 @@ et ceux qui s'en sortent simplement parce qu'ils utilisent des outils de haut ni
 > — Benedict Evans (@BenedictEvans) [2 Février 2016](https://twitter.com/BenedictEvans/status/694342874729545729)
 
 Tous deux se disent ingénieurs et on tendance à gagner des salaires similaires en début de carrière. 
-Mais la première catégorie progresse plus vite vers un travail mieux rémunéré, qu'il s'agisse d'un travail à fort valeur ajoutée, 
+Mais la première catégorie progresse plus vite vers un travail mieux rémunéré, qu'il s'agisse d'un travail à forte valeur ajoutée, 
 ou de projets open-source innovants ou d'un rôle de leader.
 
 La catégorie 1 trouve des moyens d'apprendre les sciences informatiques en profondeur, de façons conventionnelles ou en apprenant sans 
@@ -119,7 +119,7 @@ Une fois que vous vous sentirez à l'aise avec le contenu de ce cours, nous vous
 
 L'un des aspect les plus valorisants d'une formation classique en informatique est l'apprentissage des algorithmes et structures de données les plus utilisés. C'est également un bon endroit pour améliorer ses capacités de résolution de problèmes, qui seront utiles dans tous les autres domaines d'étude.
 
-Il y a des centaines de livres à ce sujet, mais notre préféré est [_https://www.amazon.fr/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202_](https://www.amazon.fr/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) de Steven Skiena. Il est clair qu'il aime la résolution de problèmes algorithmiques et réussit à transmettre son enthousiasme chez ses élèves et lecteurs. Selon nous, les deux textes les plus couramment proposés (CLRS et Sedgewick) ont tendance à être chargés en matières de preuves pour un lecteur dont l'objectif principal et d'améliorer ses capacités de résolution de problèmes. 
+Il y a des centaines de livres à ce sujet, mais notre préféré est [_The Algorithm Design Manual_](https://www.amazon.fr/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202) de Steven Skiena. Il est clair qu'il aime la résolution de problèmes algorithmiques et réussit à transmettre son enthousiasme chez ses élèves et lecteurs. Selon nous, les deux textes les plus couramment proposés (CLRS et Sedgewick) ont tendance à être trop chargés en matières de preuves pour un lecteur dont l'objectif principal et d'améliorer ses capacités de résolution de problèmes. 
 
 Pour ceux qui préfèrent les vidéo-conférences, [_Steven Skiena propose généreusement ses vidéos sur Youtube_](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp). On apprécie aussi celles de Tim Roughgarden disponibles sur [Coursera](https://www.coursera.org/specializations/algorithms), le choix entre Skiena et Roughgarden est simplement une question de préférence. D'ailleurs, il y a des dizaines d'alternatives pour l'étude algorithmique et les structures de données, alors si vous en trouvez une à votre goût, nous vous encourageons à continuer.
 
@@ -130,9 +130,9 @@ Pour la pratique, on recommande de résoudre des problèmes sur des sites comme 
 
 Il s'agit le plus souvent de problèmes intéressants et proches de cas réels accompagnés de solutions et d'échanges avec les autres joueurs. Nous vous suggérons de résoudre une centaine de problèmes aléatoires dans le cadre de vos études.
 
-> Note traducteur : Il me semble plus utile d'utiliser ces sites tout au long de votre carrière,  quelques heures par semaine.
+> Note traducteur : Il me semble plus utile d'utiliser ces sites tout au long de votre carrière quand vous avez un peu de temps libre.
 
-Enfin nous vous recommandeons vivement [How To Solve It](https://www.amazon.fr/How-Solve-Aspect-Mathematical-Method-dp-069116407X/dp/069116407X/ref=dp_ob_title_bk) qui est un excellent et unide guide pour la résolution de problèmmes; il est aussi applicable aux mathématiques qu'en informatique.  
+Enfin nous vous recommandeons vivement [How To Solve It](https://www.amazon.fr/How-Solve-Aspect-Mathematical-Method-dp-069116407X/dp/069116407X/ref=dp_ob_title_bk) qui est un excellent et unide guide pour la résolution de problèmes; il est autant applicable aux mathématiques qu'en informatique.  
 
 ![Livre Skiena](https://teachyourselfcs.com/skiena.jpg) ![Livre HTSI](https://teachyourselfcs.com/polya.jpg)
 
@@ -142,7 +142,7 @@ Dans un sens, l'informatique est une branche des mathématiques appliquées qui 
 
 Le domaine mathématique le plus pertinent pour l'informatique est appelé _mathématiques discrètes_ où "discret" est l'opposé de "continu". L'objectif est de développer une compréhension pratique de la logique, de l'analyse combinatoire, des probabilités, de la théorie des ensembles, de la théorie des graphes et un peu de la théories des nombres pour la cryptographie.
 
-L'algrèbre linéaire est un autre domain d'étude important, compte tenu de son importance dans l'inforgraphie et le machine learning. 
+L'algrèbre linéaire est un autre domain d'étude important, compte tenu de son importance dans l'infographie et le machine learning. 
 
 Notre suggestion pour débuter les mathématiques discrètes est le [jeu de notes de cours de László Lovász](http://www.cs.elte.hu/~lovasz/dmbook.ps). Le professeur Lovász a réalisé un bon travail pour rendre le contenu accessible et intuitif, ce qui en fait un meilleur point de départ que la plupart des textes plus formels. 
 
@@ -153,3 +153,18 @@ Quant à l'algèbre linéaire, nous conseillons de commencer avec la série yout
 > Si les gens ne croient pas que les mathématiques sont simples, c'est seulement parce qu'ils ne réalisent pas à quel point la vie est compliquée.
 > 
 > — John von Neumann
+
+### Systèmes d'exploitation
+
+[_Operating System Concepts_](https://www.amazon.fr/Operating-System-Concepts-Abraham-Silberschatz/dp/1118063333)(Le livre avec des dinosaures) et [_Modern Operating Systems_](https://www.amazon.fr/Modern-Operating-Systems-Andrew-Tanenbaum/dp/1292061421) sont tous deux des classiques dans le domaine des systèmes d'exploitation. Mais tous deux ont été critiqués pour leur manque de clarté et d'accessibilité pour les étudiants. 
+
+_Operating Systems: Three Easy Pieces_ (OSTEP) est une bonne alternative, disponible gratuitement [ici](http://pages.cs.wisc.edu/~remzi/OSTEP/) ainsi que sur [github](https://github.com/mthipparthi/operating-systems-three-easy-pieces/blob/master/book.pdf). Nous apprécions particulièrement la structure et la lisiblité de ce livre et nous pensons que les différents exercices de celui ci en valent la peine. 
+
+Après avoir lu OSTEP, nous vous encourageons à creuser les décisions de conception des OS qui vous intéressent. Comme par exemple [_Lion's commentary on Unix_](https://www.amazon.fr/Lions-Commentary-Unix-Source-Code/dp/1573980137), [_The design and Implementation of the FreeBSD Operating System_](https://www.amazon.fr/Design-Implementation-FreeBSD-Operating-System/dp/0321968972) et [_Mac OS X Internals_](https://www.amazon.fr/Singh-Mac-OS-Internals-_p1/dp/0134426541).
+Pour Linux, nous recommandons le fantastique ouvrage de Robert Love [_Linux Kernel Development_](https://www.amazon.fr/Linux-Kernel-Development-Robert-Love/dp/0672329468).
+
+Une bonne façon de consolider votre compréhension des systèmes d'exploitation est de lire le code d'un petit noyau et d'y ajouter des fonctionnalités. L'un des choix possible est [_xv6_](https://pdos.csail.mit.edu/6.828/2016/xv6.html), un port d'Unix V6 vers ANSI C pour microprocesseurs x86, maintenu pour un cours du MIT. OSTEP dispose d'une section dédiée à xv6 avec de bonnes idées pour de potentiels projets.
+
+
+
+
