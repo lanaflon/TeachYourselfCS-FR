@@ -269,16 +269,8 @@ Le Dragon Book est encore aujourd'hui le livre le plus complet sur les compilate
 
 La plupart des livres proposés sont disponibles gratuitement en ligne grâce à la générosité de leurs auteurs. Pour ceux qui ne le sont pas, il est alors possible d'acheter des exemplaires d'occasion d'anciennes éditions. En général, une ancienne édition convient parfaitement. Il est peu probable que la dernière édition soit 10x meilleure qu'une ancienne.
 
-Many of the textbooks we suggest are freely available online, thanks to the generosity of their authors. For those that aren’t, we suggest buying used copies of older editions. As a general rule, if there has been more than a couple of editions of a textbook, it’s quite likely that an older edition is perfectly adequate. It’s certainly unlikely that the newest version is 10x better than an older one, even if that’s what the price difference is!
-
 ### Qui est derrière ce guide ? 
 
 Ce guide a été écrit par [Oz Nova](https://twitter.com/oznova_) et [Myles Byrnes][https://twitter.com/quackingduck], avec une mise à jour en 2020 par Oz. Il est basé sur notre expérience de formateurs avec plus de 1000 diplômés de bootcamp, pour la plupart autodidactes, dans de petits groupes à San Francisco et en ligne. Merci à tous nos étudiants pour leurs retours sur les ressources d'auto apprentissage.
 
 Nous sommes très confiants quant à votre capacité à tout apprendre par vous même avec beaucoup de temps et de motivation. Mais si vous préférez un programme intensif, plus structuré et dirigé par un formateur, vous pourriez alors être intéressé par notre [_cours intensif_](https://bradfieldcs.com/csi/).
-
-
-
-We're very confident that you could teach yourself everything above, given enough time and motivation. But if you'd prefer an intensive, structured, instructor-led program, you might be interested in our Computer Science Intensive. We DON'T suggest pursuing a master's degree.
-
-
