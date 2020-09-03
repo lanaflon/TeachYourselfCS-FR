@@ -85,7 +85,7 @@ Enfin, point important  : ce guide n'est PAS conçu pour ceux qui sont entièrem
 Le fait que nous ayons inclus le sujet Programmation est simplement un rappel qu'il y a peut être plus à apprendre. 
 Pour ceux qui n'ont jamais codé auparavant, mais qui aimeraient le faire, vous préférerez peut-être un guide comme [celui-ci](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started).
 
-[![Livre SICP](https://teachyourselfcs.com/sicp.jpg)]
+![Livre SICP](https://teachyourselfcs.com/sicp.jpg)
 
 
 ### Architecture Informatique 
