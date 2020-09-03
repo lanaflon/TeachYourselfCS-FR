@@ -30,7 +30,7 @@ Visez entre 100 et 200 heures d'étude pour chaque sujet. Et revisitez vos cours
 | **[Réseaux informatiques](#réseaux-informatiques)**           | Internet est omniprésent, il est important de comprendre comment il fonctionne pour en exploiter tout le potentiel. | _Computer Networking: A Top-Down Approach_ | Stanford CS 144 |
 | **[Bases de données](#bases-de-données)**                 | Les bases de données sont au cœur de la plupart des programmes mais rares sont ceux qui comprennent comment fonctionnent réellement ces systèmes	 | _Readings in Database Systems_                          | Joe Hellerstein Berkeley CS 186 |
 | **[Langages et compilateurs](#langages-et-compilateurs)**       | Si vous comprenez comment les langages et les compilateurs fonctionnent réellement, vous écrirez un code de meilleure  qualité et apprendrez de nouveaux langages plus facilement.  | _Crafting Interpreters_ | Cours d'Alex Aiken sur edX |
-| **[Systèmes distribués](#systemes-distribues)** | De nos jours, la plupart des systèmes sont des systèmes distribués. | _Designing Data-Intensive Applications_ | MIT 6.824          
+| **[Systèmes distribués](#systèmes-distribués)** | De nos jours, la plupart des systèmes sont des systèmes distribués. | _Designing Data-Intensive Applications_ | MIT 6.824          
 
 ## C'est trop ?
 Si l'idée d'étudier 9 sujets en autodidacte sur plusieurs années vous semble trop difficile, nous vous suggérons de vous concentrer sur deux livres : [_Computer Systems: A programmer's perspective (CS:APP)_](http://csapp.cs.cmu.edu/3e/home.html) et [_Designing Data-Intensive Applications_](https://www.amazon.fr/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321) 
@@ -191,3 +191,94 @@ Si vous tenez absolument aux livres, nous recommandons [_Database Management Sys
 Pour finir, la modélisation des données est un aspect négligé et souvent mal enseigné. Sur ce sujet, nous proposons le livre [_Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World_](https://www.amazon.fr/Data-Reality-Perspective-Perceiving-Information/dp/1935504215) aussi disponible via [github](https://github.com/jhulick/bookstuff/blob/master/Data%20and%20Reality.pdf)
 
 ![redbook](https://teachyourselfcs.com/redbook.jpg) ![datareality](https://teachyourselfcs.com/data-reality.jpg)
+
+
+### Langages et compilateurs
+
+La plupart des programmeurs apprennent des langages spécifiques, alors qu'il est préférable de se concentrer sur les technologies dans leur globalités. Cela permet de généraliser ses connaissances et de comprende plus facilement et profondément la logique et le fonctionnement d'un nouveau langage.
+
+Nous vous conseillons le texte disponible gratuitement de Bob Nystrom intitulé [_Crafting Interpreters_](https://craftinginterpreters.com/contents.html). Il est bien structuré et très divertissant ce qui est parfait pour des personnes dont l'objectif est de simplement mieux comprendre les langages de programmation. Nous recommandons de suivre le cours complet et de relever les défis qui vous motivent. 
+
+Le livre [_Compilers: Principles, Techniques & Tools_](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Compiler%20Design/Alfred%20V.%20Aho,%20Monica%20S.%20Lam,%20Ravi%20Sethi,%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles,%20Techniques,%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf) aussi appelé "Dragon Book" représente une approche plus traditionnelle mais nous ne le recommandons pas pour de l'apprentissage autodidacte. En effet, celui ci est plus adapté aux professeurs qui souhaitent y sélectionner des sujets pour leurs cours.
+
+Si vous décidez d'utiliser le Dragon Book, il est alors essentiel de bien choisir les sujets, idéalement avec l'aide d'une personne plus experimentée. D'ailleurs, la façon dont nous recommandosn l'utilisation du Dragon Book est en tant que ressource supplémentaire pour les cours de Alex Aiken sur [edX](https://www.edx.org/course/compilers) 
+
+![Dragon Book](https://teachyourselfcs.com/dragon.jpg)
+
+
+### Systèmes distribués
+
+Les ordinateurs ne se sont pas seulement multipliés ces 15 dernières années, ils se sont aussi répandus. Alors qu'auparavant les entreprises achetaient d'énormes ordinateurs centraux, il est maintenant courant, même pour de très petites application de s'éxecuter sur plusieurs machines. Le domaine des systèmes distribués est l'étude de la manière de réfléchir aux compromis que cela implique.
+
+Pour de l'apprentissage autodidacte, nous suggérons le livre [_Designing Data–Intensive Applications_ (DDIA)](https://www.amazon.fr/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321) de Martin Kleppmann. Bien meilleur qu'un livre traditionnel, DDIA est avant tout simple à lire et est pensé pour la pratique sans toutefois perdre en rigueur et profondeur.
+
+Pour ceux à la recherche d'un texte plus traditionnel, ou qui préféreraient simplement une ressource disponible gratuitement, nous suggérons [_Distributed Systems, 3rd edition_](https://www.distributed-systems.net/index.php/books/ds3/), de Maarten van Steen et Andrew Tanenbaum.
+
+Enfin, pour ceux qui préfèrent la vidéo, [_6.824 du MIT_](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) est un excellent cours enseigné par Robert Morris avec des documents texte disponible [ici](https://pdos.csail.mit.edu/6.824/schedule.html)
+
+Quel que soit votre choix, l'étude des systèmes distribués exige la lecture de documents texte. Une bonne liste est disponible [ici](http://dsrg.pdos.csail.mit.edu/papers/) et nous vous encourageons fortement à participer au chapitre de votre région de [_Papers We Love_](http://paperswelove.org/)
+
+> Notre traducteur : [Pour plus d'informations sur Papers We love](https://github.com/papers-we-love/organizers)
+
+<img src="https://teachyourselfcs.com/ddia.jpg" alt="Livre DDIA" width="207"/>
+
+
+## Questions fréquemment posées
+
+### A qui s'adresse ce guide ? 
+
+Ce guide vise les autodidactes, les lycéens, les professionnels. Savoir quand se lancer dans ce projet est tout à fait personnel mais la majorité des gens à tendance à tirer profit d'une expérience professionnelle avant de plonger en profondeur dans les sciences informatiques. Par exemple, nous avons remarqué que les étudiants aiment en apprendre plus sur les bases de données s'ils ont déjà eu à travailler avec celles-ci professionnellement, de même pour le réseau avec une exérience de projet web. 
+
+### Qu'en est-il de l'IA/Programmation graphique/sujet-X... ?
+
+Nous avons essayé de limiter notre liste à ce qui nous semblait le plus pertinent pour chaque ingénieur indépendamment de sa spécialité ou industrie. Selon notre expérience, ces sujets offrent le meilleur retour sur investissement pour la majorité de nos étudiants et constituent une base solide pour une éventuelle poursuite d'études. Vous serez alors en bien meilleure posture pour étudier des manuels plus traditionnels ou des articles scientifiques. Voici quelques points de départ pour des cours facultatifs : 
+ - Intelligence Artificielle : suivez le [cours d'introduction à l'IA](http://ai.berkeley.edu/) de Berkeley en réalisant aussi l'excellent projet Pacman. Pour ce qui est d'un livre, [_Artificial Intelligence : A Modern Approach_](https://www.amazon.fr/Artificial-Intelligence-Approach-Stuart-Russell/dp/0136042597) de Russel et Norvig est un bon choix.
+ - Machine Learning : Faites le cours d'Andrew Ng :[_Machine learning_](https://fr.coursera.org/learn/machine-learning) sur Coursera. Restez patient et assurez-vous de bien assimiler les principes fondamentaux avant de vous lancer dans des sujets plus.. attirants comme le deep learning.  
+ - Programmation graphique : Suivez les cours [_CS184_](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html) de l'université de Berkeley et utilisez [_Computer Graphics: Principles and practice_](https://www.amazon.fr/Computer-Graphics-Principles-John-Hughes/dp/0321399528) comme livre.
+ 
+### Quelle est la rigueur de la séquence d'apprentissage proposée ?
+
+En pratique, tous les sujets proposés se recoupent et se renvoient les uns aux autres. Par exemple, la relation entre les mathématiques et l'algorithmie : Apprendre les mathématiques en priorité vous aiderait à analyser et à comprendre vos algorithmes plus efficacement, mais apprendre l'algorithmique d'abord vous motiverait d'avantage et fournirait un meilleur contexte. Idéalement, vous devriez revenir sur ces deux sujets plusieurs fois durant votre carrière.
+
+Ainsi, notre ordre d'apprentissage est d'avantage là pour vous aider à démarrer quelque part. Si vous avez une raison de préférer une séquence différente, alors allez-y. Les "pré-requis" les plus importants sont : l'architecture informatique avant les systèmes d'exploitation ou les bases de données et les réseaux informatiques et les systèmes d'exploitation avant les systèmes distribués.
+
+### Quelle est la différence entre votre guide et Open Source Society ou freeCodeCamp ?
+
+Quand ce guide a été rédigié pour la première fois en 2016, le guide [OSS (Open Source Society)](https://github.com/ossu/computer-science) comportait trop de sujets, suggérait des ressources de moins bonne qualité et ne fournissait aucune justification sur les raisons pour lesquelles certains cours sont considérés utiles. 
+Nous nous sommes efforcés à restreindre notre liste de modules à ceux qu'un ingénieur informatique se doit de connaître et à vous aider à comprendre pourquoi chaque cours est inclus. Ces dernières années, OSS s'est amélioré, mais nous pensons toujours que nous offrons une vision plus claire et cohérente.
+
+freeCodeCamp est axé sur la programmation uniquement, pour savoir pourquoi il est important d'apprendre l'informatique dans sa globalité, voir [ci-dessus](#Pourquoi-apprendre-les-sciences-informatiques-? ). Si vous êtes débutant en programmation, alors concentrez dessus et revenez à ce guide dans un an ou deux.
+
+### Qu'en est-il du langage-X ?
+
+L'apprentissage un langage de programmation précis est beaucoup plus facile mais moins utile pour votre carrière. Si vous en connaissez déjà quelques-uns, nous vous conseillons alors de suivre notre guide et d'apprendre de nouveaux langages entre les blancs, ou de remettre cela à plus tard. Si vous maitrisez la [Programmation](#programmation) et les [ compilateurs](#langages-et-compilateurs) alors il ne vous faudra pas plus d'un week-end pour apprendre les bases d'un nouveau langage, après quoi il vous suffira de vous familiariser avec son écosystème sur le tas.
+
+### Qu'en est-il de la technologie du moment ?
+
+Aucune technologie à elle seule n'est assez importante pour que son apprentissage soit au coeur de votre éducation. Cela dit, il est bon d'être excité à l'idée d'apprendre des choses. L'astuce est d'apprendre en profondeur les concepts de cette technologie à la mode avant de voir comment celle-ci s'intègre dans le tableau d'ensemble. 
+
+### Pouquoi recommandez vous toujours SICP ?
+
+Essayez. Certaines personnes trouvent le SICP époustouflant, une caractéristique que partagent très peu d'autres livres. Si vous n'aimez pas, vous pouvez toujours essayer autre chose et peut-être revenir à SICP plus tard.
+
+### Pourquoi recommendez vous toujours le Dragon Book ?
+
+Le Dragon Book est encore aujourd'hui le livre le plus complet sur les compilateurs. Il est généralement mal vu car il s'attarde trop sur certains sujets moins à la mode de nos jours, comme l'analyse syntaxique. Le fait est que ce livre n'a pas été pensé pour l'étude en détail mais plutôt comme une source d'informations pour les préparations de cours des professeurs. De la même façon, un autodidacte peut tracer son propre chemin à travers ce livre, ou mieux encore, suivre les suggestions des instructeurs de cours en ligne.
+
+### Comment puis-je obtenir ces livres à bas prix ?
+
+La plupart des livres proposés sont disponibles gratuitement en ligne grâce à la générosité de leurs auteurs. Pour ceux qui ne le sont pas, il est alors possible d'acheter des exemplaires d'occasion d'anciennes éditions. En général, une ancienne édition convient parfaitement. Il est peu probable que la dernière édition soit 10x meilleure qu'une ancienne.
+
+Many of the textbooks we suggest are freely available online, thanks to the generosity of their authors. For those that aren’t, we suggest buying used copies of older editions. As a general rule, if there has been more than a couple of editions of a textbook, it’s quite likely that an older edition is perfectly adequate. It’s certainly unlikely that the newest version is 10x better than an older one, even if that’s what the price difference is!
+
+### Qui est derrière ce guide ? 
+
+Ce guide a été écrit par [Oz Nova](https://twitter.com/oznova_) et [Myles Byrnes][https://twitter.com/quackingduck], avec une mise à jour en 2020 par Oz. Il est basé sur notre expérience de formateurs avec plus de 1000 diplômés de bootcamp, pour la plupart autodidactes, dans de petits groupes à San Francisco et en ligne. Merci à tous nos étudiants pour leurs retours sur les ressources d'auto apprentissage.
+
+Nous sommes très confiants quant à votre capacité à tout apprendre par vous même avec beaucoup de temps et de motivation. Mais si vous préférez un programme intensif, plus structuré et dirigé par un formateur, vous pourriez alors être intéressé par notre [_cours intensif_](https://bradfieldcs.com/csi/).
+
+
+
+We're very confident that you could teach yourself everything above, given enough time and motivation. But if you'd prefer an intensive, structured, instructor-led program, you might be interested in our Computer Science Intensive. We DON'T suggest pursuing a master's degree.
+
+
