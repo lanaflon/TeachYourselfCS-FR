@@ -4,10 +4,9 @@
 
 :warning: Work in progress :warning:  
 
-Que vous soyez autodidacte, hobbyiste, ou jeune apprenant vous vous devez d'apprendre et comprendre les sciences informatiques.  
-Heureusement, il n'est pas nécessaire de perdre des années et une fortune pour obtenir ces connaissances.
+Que vous soyez autodidacte, hobbyiste ou jeune apprenant vous vous devez d'apprendre et comprendre les sciences informatiques.  
+Heureusement, il n'est pas nécessaire de perdre des années et une fortune pour obtenir ces connaissances car il existe aujourd'hui de nombreuses ressources disponibles en ligne.
 
-Il existe aujourd'hui de nombreuses ressources mais certaines sont meilleurs que d'autres. Vous n'avez pas besoin d'une énième liste "200 cours en ligne gratuits".
 Ce dont vous avez besoin, ce sont des réponses à ces questions : 
 * **Quels sujets** devez vous apprendre et pourquoi ?
 *  Quel est le **meilleur livre ou série de vidéos** pour chaque sujet ?
