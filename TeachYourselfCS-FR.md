@@ -270,6 +270,6 @@ La plupart des livres proposés sont disponibles gratuitement en ligne grâce à
 
 ### Qui est derrière ce guide ? 
 
-Ce guide a été écrit par [Oz Nova](https://twitter.com/oznova_) et [Myles Byrnes][https://twitter.com/quackingduck], avec une mise à jour en 2020 par Oz. Il est basé sur notre expérience de formateurs avec plus de 1000 diplômés de bootcamp, pour la plupart autodidactes, dans de petits groupes à San Francisco et en ligne. Merci à tous nos étudiants pour leurs retours sur les ressources d'auto apprentissage.
+Ce guide a été écrit par [Oz Nova](https://twitter.com/oznova_) et [Myles Byrnes](https://twitter.com/quackingduck) avec une mise à jour en 2020 par Oz. Il est basé sur notre expérience de formateurs avec plus de 1000 diplômés de bootcamp, pour la plupart autodidactes, dans de petits groupes à San Francisco et en ligne. Merci à tous nos étudiants pour leurs retours sur les ressources d'auto apprentissage.
 
 Nous sommes très confiants quant à votre capacité à tout apprendre par vous même avec beaucoup de temps et de motivation. Mais si vous préférez un programme intensif, plus structuré et dirigé par un formateur, vous pourriez alors être intéressé par notre [_cours intensif_](https://bradfieldcs.com/csi/).
